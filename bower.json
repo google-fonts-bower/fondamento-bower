@@ -1,0 +1,17 @@
+{
+    "name": "fondamento-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Astigmatic"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/fondamento-bower.git"
+    },
+    "description": "Fondamento font",
+    "keywords": [
+        "font",
+        "HANDWRITING"
+    ]
+}
